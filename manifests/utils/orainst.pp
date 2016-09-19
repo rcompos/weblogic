@@ -4,7 +4,7 @@
 #
 #
 ##
-define orawls::utils::orainst
+define weblogic::utils::orainst
 (
   $ora_inventory_dir = undef,
   )
